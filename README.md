@@ -1,7 +1,7 @@
 # Unit 2 Project- Fictitious E-Commerce Dataset
 DAT 512 Canisius College <br>
 Professor Paul Lambson
-> Due 4/10/23, link emailed by midnight.
+> Due 4/17/23, link emailed by midnight.
 ### Learning Objectives
 ---
 To allow students to demonstrate the following competencies:
